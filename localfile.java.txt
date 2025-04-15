@@ -2,7 +2,8 @@ public class Temp
 {
 public static void main(String [ ] args)
 {
-System.out.println(" RBG Technologies is a good institute");
+System.out.println("RBG Technologies is a good institute");
+System.out.println("Done");
 }
 }
  
